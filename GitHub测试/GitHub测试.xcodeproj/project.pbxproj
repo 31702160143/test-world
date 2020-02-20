@@ -13,6 +13,7 @@
 		0D643A8D23FE8AE200787011 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0D643A8C23FE8AE200787011 /* Assets.xcassets */; };
 		0D643A9023FE8AE200787011 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D643A8E23FE8AE200787011 /* LaunchScreen.storyboard */; };
 		0D643A9323FE8AE200787011 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D643A9223FE8AE200787011 /* main.m */; };
+		0D643A9B23FE8BFB00787011 /* XWPerson.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D643A9A23FE8BFB00787011 /* XWPerson.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		0D643A8F23FE8AE200787011 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0D643A9123FE8AE200787011 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0D643A9223FE8AE200787011 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		0D643A9923FE8BFB00787011 /* XWPerson.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XWPerson.h; sourceTree = "<group>"; };
+		0D643A9A23FE8BFB00787011 /* XWPerson.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XWPerson.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				0D643A8E23FE8AE200787011 /* LaunchScreen.storyboard */,
 				0D643A9123FE8AE200787011 /* Info.plist */,
 				0D643A9223FE8AE200787011 /* main.m */,
+				0D643A9923FE8BFB00787011 /* XWPerson.h */,
+				0D643A9A23FE8BFB00787011 /* XWPerson.m */,
 			);
 			path = "GitHub测试";
 			sourceTree = "<group>";
@@ -145,6 +150,7 @@
 				0D643A8823FE8AE200787011 /* ViewController.m in Sources */,
 				0D643A9323FE8AE200787011 /* main.m in Sources */,
 				0D643A8523FE8AE200787011 /* AppDelegate.m in Sources */,
+				0D643A9B23FE8BFB00787011 /* XWPerson.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
