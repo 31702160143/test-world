@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0D2FB71023FE8E500048C603 /* XWdog.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D2FB70F23FE8E500048C603 /* XWdog.m */; };
 		0D643A8523FE8AE200787011 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D643A8423FE8AE200787011 /* AppDelegate.m */; };
 		0D643A8823FE8AE200787011 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D643A8723FE8AE200787011 /* ViewController.m */; };
 		0D643A8B23FE8AE200787011 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D643A8923FE8AE200787011 /* Main.storyboard */; };
@@ -17,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0D2FB70E23FE8E500048C603 /* XWdog.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XWdog.h; sourceTree = "<group>"; };
+		0D2FB70F23FE8E500048C603 /* XWdog.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XWdog.m; sourceTree = "<group>"; };
 		0D643A8023FE8AE200787011 /* GitHub测试.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GitHub测试.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D643A8323FE8AE200787011 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		0D643A8423FE8AE200787011 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -72,6 +75,8 @@
 				0D643A9223FE8AE200787011 /* main.m */,
 				0D643A9923FE8BFB00787011 /* XWPerson.h */,
 				0D643A9A23FE8BFB00787011 /* XWPerson.m */,
+				0D2FB70E23FE8E500048C603 /* XWdog.h */,
+				0D2FB70F23FE8E500048C603 /* XWdog.m */,
 			);
 			path = "GitHub测试";
 			sourceTree = "<group>";
@@ -150,6 +155,7 @@
 				0D643A8823FE8AE200787011 /* ViewController.m in Sources */,
 				0D643A9323FE8AE200787011 /* main.m in Sources */,
 				0D643A8523FE8AE200787011 /* AppDelegate.m in Sources */,
+				0D2FB71023FE8E500048C603 /* XWdog.m in Sources */,
 				0D643A9B23FE8BFB00787011 /* XWPerson.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
